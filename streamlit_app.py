@@ -1,2 +1,2 @@
-IMPORT streamlit 
+import streamlit 
 streamlit.title('Good morning')
